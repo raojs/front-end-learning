@@ -32,4 +32,4 @@
 
 1. _SSL 和 TLS 区别？_
 
-SSL（Secure Sockets Layer，安全套接字层）协议是网景公司专有的，IETF后来在标准化 SSL 协议时，将其改名为 TLS（Transport Layer Security，传输层安全）。
+SSL（Secure Sockets Layer，安全套接字层）协议是网景公司专有的，IETF 后来在标准化 SSL 协议时，将其改名为 TLS（Transport Layer Security，传输层安全）。
